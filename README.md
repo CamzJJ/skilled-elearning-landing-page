@@ -29,7 +29,7 @@ Users should be able to:
 ![](/screenshots.jpg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Skilled site URL](https://camjj-skilled-challenge.netlify.app/)
 
 ## My process
 
